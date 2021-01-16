@@ -4,7 +4,9 @@ __pycache__/
 *$py.class
 files/
 .book/
+0.MsDS_ML_Dang/
 .ipynb_checkpoints
+
 # C extensions
 *.so
 
